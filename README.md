@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeekTanmoy
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning New in Android 
+- 🌱 I’m currently learning JetPack Compose in Android 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
